@@ -2,6 +2,9 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/TsunamiWind?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/TsunamiWind?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Rhodum?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Finalb-Studios?style=social)
+![GitHub stars](https://img.shields.io/github/stars/RUBLOKS?style=social)
 
 ## About Me
 
