@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm TsunamiWind! 🌊
 
-<!--
-**TsunamiWind/TsunamiWind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/TsunamiWind?style=social)
+![GitHub stars](https://img.shields.io/github/stars/TsunamiWind?style=social)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate software developer who loves creating innovative and efficient solutions. I enjoy working on a variety of projects, from web development to machine learning. When I'm not coding, I explore new technologies, read tech blogs, or contribute to open-source projects.
+
+- 💻 Currently working on: Creating new AI Tools
+- 🎯 Goals for 2024: Getting customers
+- 🌱 Currently learning: Java
+- 📫 How to reach me: N/A
+
+## Skills
+
+Here are some of the technologies and tools I work with:
+
+- **Languages:** Python, JavaScript, C++, Java
+- **Frameworks:** React, Node.js, Django, Flask
+- **Tools:** Git, Docker, Kubernetes, Jenkins
+- **Databases:** MySQL, PostgreSQL, MongoDB
